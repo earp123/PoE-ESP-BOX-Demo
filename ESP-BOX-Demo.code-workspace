@@ -1,0 +1,21 @@
+{
+	"folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "ui_net_config.h": "c",
+            "esp_netif.h": "c",
+            "app_wifi.h": "c",
+            "algorithm": "c",
+            "compare": "c",
+            "future": "c",
+            "regex": "c",
+            "tuple": "c",
+            "utility": "c",
+            "xstring": "c"
+        }
+    }
+}
